@@ -2,8 +2,7 @@
 
 A fast, polished 3D arcade game that runs in your browser. Slide the paddle, catch the falling neon cubes, dodge the red hazards, grab power-ups and chain combos for a high score.
 
-**▶ Live demo:** `https://darshittank.github.io/cube-catcher-neon-arena/`
-*(replace `darshittank` with your GitHub username after following the [deployment steps](#-deploy-to-github-pages-live-demo))*
+**▶ Live demo:** `[https://darshittank.github.io/cube-catcher-neon-arena/](https://darshittank.github.io/cube-catcher-neon-arena/)`
 
 ---
 
@@ -127,7 +126,7 @@ git init
 git add .
 git commit -m "Initial commit: Cube Catcher Neon Arena"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/cube-catcher-neon-arena.git
+git remote add origin https://github.com/Darshittank/cube-catcher-neon-arena.git
 git push -u origin main
 ```
 
@@ -143,7 +142,7 @@ If GitHub asks for a password, use a **Personal Access Token** (GitHub → Setti
 4. Wait 1–2 minutes and refresh the page. A banner shows your live link:
 
 ```
-https://YOUR-USERNAME.github.io/cube-catcher-neon-arena/
+https://Darshittank.github.io/cube-catcher-neon-arena/
 ```
 
 ### 5. Add the live link to your repository
