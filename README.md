@@ -2,7 +2,7 @@
 
 A fast, polished 3D arcade game that runs in your browser. Slide the paddle, catch the falling neon cubes, dodge the red hazards, grab power-ups and chain combos for a high score.
 
-**▶ Live demo:** `[https://darshittank.github.io/cube-catcher-neon-arena/](https://darshittank.github.io/cube-catcher-neon-arena/)`
+**▶ Live demo:** [Play Now!! Cube Catcher](https://darshittank.github.io/cube-catcher-neon-arena/)
 
 ---
 
